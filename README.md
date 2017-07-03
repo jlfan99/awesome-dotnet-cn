@@ -272,6 +272,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   NGit：NGit 是 JGit 移植到 C# 的版本。[官网](https://github.com/mono/ngit)
 *   posh-git：Git 的 PowerShell 环境。[官网](https://github.com/dahlbyk/posh-git)
 
+
 ## 图形（Graphics）
 
 *   Oxyplot：OxyPlot 是一个 .NET 跨平台绘图库。[官网](https://github.com/oxyplot/)
@@ -325,7 +326,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   ImageProcessor：开源 .NET 库，用于实时处理图片。[官网](http://imageprocessor.org/)
 *   DynamicImage：高性能开源图片处理库，用于 ASP.NET。[官网](http://dynamicimage.apphb.com/)
 *   MetadataExtractor：从图片中提取 Exif、IPTC、XMP、ICC 等其它元数据信息。[官网](https://github.com/drewnoakes/metadata-extractor-dotnet)
-*   Emgu CV：OpenCV 的 .NET 跨平台封装。[官网](http://www.emgu.com/wiki/index.php/Main_Page)
+*   Emgu CV：OpenCV 的 .NET 跨平台封装。[官网](http://www.emgu.com/wiki/index.php/Main_Page)
+*   ImageSharp：是一个跨平台、全托管实现的新2D图像处理API，不依赖System.Drawing.[官网](https://github.com/JimBobSquarePants/ImageSharp)
 
 ## 安装工具（Install Tools）
 
