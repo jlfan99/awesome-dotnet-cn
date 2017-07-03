@@ -98,8 +98,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Mono.Cecil：Cecil 类库用于生成和检查 ECMA CIL 程序和库。[官网](https://github.com/jbevain/cecil)
 
 ## 资源（Assets）
-
-*   Cassette：管理 .NET web 应用程序资源（脚本、css 和 模板）[Cassette](https://github.com/andrewdavey/cassette)
+j
+*   Cassette：管理 .NET web 应用程序资源（脚本、css 和 模板）[Cassette](https://github.com/andrewdavey/cassette)
 *   NodeAssets：.net 资源管理器，通过 SignalR 实时更新 css，也可以使用 NodeJS 编译器。[官网](https://github.com/ajorkowski/NodeAssets)
 *   Bundler：编译和最小化 Less、Sass、Stylus、Css、JS、CoffeeScript、LiveScript 文件。MVC集成了 MVC 和 ServiceStack。[官网](https://github.com/ServiceStack/Bundler)
 *   ClientDependency：压缩CSS与JS，提供WebForm与MVC版本。[官网](https://github.com/Shazwazza/ClientDependency)
@@ -126,6 +126,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   CacheCow：ASP.NET Web API HTTP 客户端和服务器端缓存实现。[官网](https://github.com/aliostad/CacheCow)
 *   Akavache：一个异步、持久化的键值存储。[官网](https://github.com/akavache/Akavache)
+*   CacheManager:一个为C#设计的缓存抽象层，支持多种缓存工具，如redis（StackExchange.Redis），MemoryCache（System.Runtime.Caching或Microsoft.Extensions.Caching.Memory），Memcached（Enyim.Memcached），Couchbase（Couchbase.Net.Client v2），System.Web.Caching 等，可以通过几行代码实现层次化、分布式的缓存方案，[官网](https://github.com/MichaCo/CacheManager) ；[文档](http://cachemanager.michaco.net/)
 
 ## CLI
 
